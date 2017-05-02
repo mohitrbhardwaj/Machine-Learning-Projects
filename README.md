@@ -1,1 +1,1 @@
-**Titanic** — Predicting whether a passenger will survive on Titanic or not based on given data using Logistic Regression, analysed data using Random Forest and Decision Tree Algorithms and various scikit libraries.
+Most of the projects in this repository are **Kaggle/Hackerearth** competition tasks.
