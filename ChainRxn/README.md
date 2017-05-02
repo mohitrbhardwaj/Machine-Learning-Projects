@@ -1,1 +1,2 @@
 Currently I am working on this project, So this project is incomplete.
+**Description** - An Eectronic board game designed using LED’s and simulated using arduino. Power supply and Input/Output are managed using Series In Parallel Out Shift Registers. Collected and Analysed game Data on a server during test runs. Analysed critical points in the game using both Dynamic Programming and Machine Learning and compared them.  
